@@ -2,11 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=blue&size=29&width=500&lines=Hello+World!+;I'm+Abdul+Salam.;Nice+to+meet+you!+🙂+; )](https://git.io/typing-svg)
 
 
-<img align="right" src="https://media2.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif?cid=ecf05e478vg33zq9apitycuq8s8emef5i8vz947s1ijvsdnx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35%"/> 
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vy2lismtuew0xvffscbbn9pfa932qiaiunbwt8v9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35%"/> 
 
 ## About Me:
 - 👋 I am Abdul Salam Abro.
-- :pakistan: I'm from Sindh, Pakistan. 
+- :pakistan: I'm from Province Sindh, Pakistan. 
 - 💻 A Computer Science Graduate.
 - 👩🏽‍💻 Currently a student at ![](https://img.shields.io/badge/Microverse-blueviolet) & on my learning journey to becoming a Remote Full-Stack Developer.
 - 👩🏽‍🎓 I've attained my Bachelor of Science degree from Sukkur IBA University.
