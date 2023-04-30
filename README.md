@@ -1,77 +1,45 @@
-### Hi, I am Abdul Salam 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=blue&size=29&width=500&lines=Hello+World!+;I'm+Abdul+Salam.;Nice+to+meet+you!+🙂+; )](https://git.io/typing-svg)
 
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
- 
+## About Me:
+- 👋 I am Abdul Salam Abro.
+- :pakistan: I'm from Jhelum, Pakistan. 
+- 💻 A Computer Science Graduate.
+- 👩🏽‍💻 Currently a student at ![](https://img.shields.io/badge/Microverse-blueviolet) & on my learning journey to becoming a Remote Full-Stack Developer.
+- 👩🏽‍🎓 I've attained my Bachelor of Science degree from Sukkur IBA University.
+- 🤝 Open to collaborations, contributions to open source projects, internships & new opportunities!
+- 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-Stack/Front-End/Back-End Developer</ins>
+- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, watching tech related YouTube videos, watching Tedx Talks, listening to Key Note Speakers, playing puzzle games, solving problems & so many more!
 
-  <h1><b>Abdul Salam</b></h1>
- 
-</div>
-<!------------------------------ Now ------------------------------>
- <section>
-   <h2><i>What is happening on 2023?</i></h2>
-I am Abdul Salam, from pakistan. With a passion for programming and a keen eye for problem-solving, I am eager to explore new and exciting opportunities in the field. My technical expertise includes working with PHP, .NET and a variety of other programming languages. I am now seeking to collaborate on intermediate-level Javascript projects and contribute my skills to the team. I am in the process of acquiring new skills and enhancing my abilities. I will soon be ready to embark on new projects. If you are interested in my profile, please reach out to me via email or connect with me on LinkedIn.
+## Tech Stack & Other Skills:
+<!--Credit to all those who created or own these icons & logos | I do not own any of them-->
+<p align="left"> 
+  <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/></code>
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40" alt="VSCode"> 
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40" alt="GitHub">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="50" alt="Git version control"> 
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby"></code>
+<p style="display:flex; justify-content:center; align-items:center; column-gap: 5px;" >
   
- - 📧 Abdussalamabro@gmail.com
-  - 🔗 [AbdulSalam - LinkedIn] (https://www.linkedin.com/in/abdul-salam-abro/)
-</section>
-<!------------------------------ Experience ------------------------------>
- <section>
-  <h2><i>About me</i></h2>
-  <br>
-  <p>
+![Abdul Salam GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulSalamAbro&show_icons=true&theme=radical)
 
-- 🌱 I’m currently learning **Ruby on rails** and a new exiting things 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw, listen to music and watch movies
-- 💬 Ask me about **C#,JAVASCRIPT,VB, HTML, CSS,bootstrap React, Node.js and Laravel**
-- 📫 How to reach me **abdussalamabro@gmail.com**
-  </p>
-</section>
-<!------------------------------ Knowledge ------------------------------>
- <section>
-  <h2><i>Knowledge</i></h2>
-  <br>
-<p align="left">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-      <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt=""rails />
-    <img src="https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSalamAbro)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  </p>
-</section>
-<!------------------------------ Soft Skills ------------------------------>
- <section>
-  <h2><i>Soft Skills</i></h2>
-  <br>
-  <p>
-As a highly skilled multimedia engineer, I bring a rare combination of technical proficiency and exceptional interpersonal skills to the table. I am not only an expert in my field, but also a friendly, tolerant, and respectful individual who thrives in dynamic and communicative environments. Additionally, my ability to effectively organize and tune in to the needs of others has proven to make me a valuable asset to any team. With my diverse set of skills, I am confident that I am the ideal candidate for any web development project.
-  </p>
-</section>
-
-<!------------------------------ My GitHub Stats ------------------------------>
+</p>
 
 
+### 👤 Connect with me!
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AbdulSalamAbro)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-salam-abro/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abdussalamabro@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Abdul_SalamAbro)
+
+### ⭐ From [Abdul Salam](https://github.com/AbdulSalamAbro).
