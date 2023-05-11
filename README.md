@@ -34,6 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSalamAbro)](https://github.com/anuraghazra/github-readme-stats)
 
+ <img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSalamAbro&" alt="AbdulSalamAbro" />
 </p>
 
 
