@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSalamAbro)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulSalamAbro&)
+ (https://github-readme-streak-stats.herokuapp.com/?user=AbdulSalamAbro&)
 </p>
 
 
