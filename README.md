@@ -6,13 +6,13 @@
 
 ## About Me:
 - 👋 I am Abdul Salam Abro.
-- :pakistan: I'm from Province Sindh, Pakistan. 
+- :pakistan: I'm from Pakistan. 
 - 💻 A Computer Science Graduate.
-- 👩🏽‍💻 Currently a student at ![](https://img.shields.io/badge/Microverse-blueviolet) & on my learning journey to becoming a Remote Full-Stack Developer.
+- 👩🏽‍💻 Currently learning from ![](https://img.shields.io/badge/Microverse-blueviolet) resources & on my learning journey to becoming a Remote Full-Stack Developer.
 - 👩🏽‍🎓 I've attained my Bachelor of Science degree from Sukkur IBA University.
 - 🤝 Open to collaborations, contributions to open source projects, internships & new opportunities!
 - 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-Stack/Front-End/Back-End Developer</ins>
-- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, watching tech related YouTube videos, watching Tedx Talks, listening to Key Note Speakers, playing puzzle games, solving problems & so many more!
+- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, watching tech-related YouTube videos, watching Tedx Talks, listening to Key Note Speakers, playing puzzle games, solving problems & so many more!
 
 ## Tech Stack & Other Skills:
 <!--Credit to all those who created or own these icons & logos | I do not own any of them-->
