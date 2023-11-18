@@ -44,5 +44,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-salam-abro/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abdussalamabro@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Abdul_SalamAbro)
+Phone: +923043585331 Contact me for more queries and help
 
 ### ⭐ From [Abdul Salam](https://github.com/AbdulSalamAbro).
