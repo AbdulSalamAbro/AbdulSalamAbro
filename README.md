@@ -17,7 +17,7 @@ Before this, I spent two years coordinating freelance delivery end-to-end — sc
 
 - 🏢 Implementation Consultant & Project Coordinator at **Centegy Technologies**
 - 💼 Project delivery on **Upwork** (Top Rated, 4.9★, 1,000+ hrs) and **Fiverr** (Level 2, 4.9★)
-- 🎓 BCS, Sukkur IBA University
+- 🎓 BSCS, Sukkur IBA University
 - 🌍 Based in Karachi, Pakistan
 - 📫 Reach me at **abdulsalam.abro@outlook.com**
 
@@ -55,17 +55,6 @@ Before this, I spent two years coordinating freelance delivery end-to-end — sc
 - 🏆 Top Performer, National Freelancing Training Programme (NFTP)
 - 🎓 Aspire Leaders Program (Harvard-affiliated) — HarvardX: Project Management & Data Analytics
 - 📜 Atlassian Agile Project Management Professional Certificate
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulSalamAbro&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSalamAbro&theme=default&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSalamAbro&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
 
 ---
 
