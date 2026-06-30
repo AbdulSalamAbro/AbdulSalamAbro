@@ -1,49 +1,72 @@
+<h1 align="center">Hi, I'm Abdul Salam 👋</h1>
+<h3 align="center">Implementation Consultant · Project Manager · Project Coordinator</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=blue&size=29&width=500&lines=Hello+World!+;I'm+Abdul+Salam.;Nice+to+meet+you!+🙂+; )](https://git.io/typing-svg)
-
-
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vy2lismtuew0xvffscbbn9pfa932qiaiunbwt8v9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35%"/> 
-
-## About Me:
-- 👋 I am Abdul Salam Abro.
-- :pakistan: I'm from Pakistan. 
-- 💻 A Computer Science Graduate.
-- 👩🏽‍💻 Currently learning from ![](https://img.shields.io/badge/Microverse-blueviolet) resources & on my learning journey to becoming a Remote Full-Stack Developer.
-- 👩🏽‍🎓 I've attained my Bachelor of Science degree from Sukkur IBA University.
-- 🤝 Open to collaborations, contributions to open source projects, internships & new opportunities!
-- 🔍 Looking for <ins>fully remote positions</ins> as a <ins>Full-Time Full-Stack/Front-End/Back-End Developer</ins>
-- 🤸🏽‍♀️ **<ins>Brief summary of my hobbies</ins>:** reading, watching tech-related YouTube videos, watching Tedx Talks, listening to Key Note Speakers, playing puzzle games, solving problems & so many more!
-
-## Tech Stack & Other Skills:
-<!--Credit to all those who created or own these icons & logos | I do not own any of them-->
-<p align="left"> 
-  <code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/></code>
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40" alt="VSCode"> 
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="40" alt="GitHub">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="50" alt="Git version control"> 
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby"></code>
-<p style="display:flex; justify-content:center; align-items:center; column-gap: 5px;" >
-  
-![Abdul Salam GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulSalamAbro&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSalamAbro)](https://github.com/anuraghazra/github-readme-stats)
-
- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulSalamAbro&)
+<p align="center">
+  <a href="https://abdulsalamabro.com"><img src="https://img.shields.io/badge/Portfolio-abdulsalamabro.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdul-salam-abro"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdulsalam.abro@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
-### 👤 Connect with me!
+### About Me
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AbdulSalamAbro)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-salam-abro/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abdussalamabro@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Abdul_SalamAbro)
-Phone: +923043585331 Contact me for more queries and help
+I manage end-to-end ERP implementations and coordinate multi-market project delivery — currently across Pakistan, Bangladesh, Thailand, and the Philippines. My work sits at the intersection of project management and project coordination: running requirements workshops, leading UAT, managing Change Requests and Functional Specifications, coordinating release strategy across Dev → UAT → Production, and keeping cross-functional teams and international stakeholders aligned from kickoff to go-live.
 
-### ⭐ From [Abdul Salam](https://github.com/AbdulSalamAbro).
+Before this, I spent two years coordinating freelance delivery end-to-end — scoping, timelines, client communication, and on-time delivery across 80+ projects for international clients.
+
+- 🏢 Implementation Consultant & Project Coordinator at **Centegy Technologies**
+- 💼 Project delivery on **Upwork** (Top Rated, 4.9★, 1,000+ hrs) and **Fiverr** (Level 2, 4.9★)
+- 🎓 BCS, Sukkur IBA University
+- 🌍 Based in Karachi, Pakistan
+- 📫 Reach me at **abdulsalam.abro@outlook.com**
+
+---
+
+### What I Work With
+
+**Project Management & Coordination**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Technical**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**Dev & Web**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### Highlights
+
+- 🚀 Coordinated ERP implementations across **4 countries**, owning full project lifecycles end-to-end
+- 📋 Managed CR/FS pipelines and release strategy across Dev → UAT → Production without slipping milestones
+- 💼 Coordinated 80+ freelance projects independently — scoping, timelines, and client delivery
+- 🏆 Top Performer, National Freelancing Training Programme (NFTP)
+- 🎓 Aspire Leaders Program (Harvard-affiliated) — HarvardX: Project Management & Data Analytics
+- 📜 Atlassian Agile Project Management Professional Certificate
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulSalamAbro&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSalamAbro&theme=default&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSalamAbro&layout=compact&theme=default&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Open to conversations on implementation consulting, project management, and project coordination.</i></p>
